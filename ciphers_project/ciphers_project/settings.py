@@ -130,3 +130,5 @@ CORS_ALLOWED_ORIGINS = [
     "https://danespn.github.io"
     "http://localhost:3000"
 ]
+
+ALLOWED_HOSTS = ['localhost', '0.0.0.0', 'ciphers-service-danespn.onrender.com']
