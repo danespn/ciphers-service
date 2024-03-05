@@ -127,7 +127,7 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [
-    "https://danespn.github.io"
+    "https://danespn.github.io",
     "http://localhost:3000"
 ]
 
